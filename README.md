@@ -7,8 +7,8 @@ This repository contains the tasks that I completed while working as an intern f
 - **Internship Duration** - 1 Month (June 2021)
 - **Internship Type** - Work From Home
 
-[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>]()
-[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/sheiktrix/The-Sparks-Foundation-Tasks/blob/b6d1bbdc7f72d6eba0d5fd10a06961b47a379ae1/Task%201.ipynb)
+[<img align = right height = 50 width = 50 src = https://static-exp1.licdn.com/sc/h/8zliikpi39umlw2wr99gu4a0u>](https://www.linkedin.com/posts/sheik-mohideen-1b2554191_task1-gripjune21-datascience-activity-6807612058541035520-yRip)
+[<img align = right height = 50 width = 50 src = https://cdn1.iconfinder.com/data/icons/data-science-flat-1/64/data-analysis-inspection-zoom-information-science-512.png>](https://github.com/sheiktrix/The-Sparks-Foundation-Tasks/blob/b6d1bbdc7f72d6eba0d5fd10a06961b47a379ae1/Task%201.ipynb)
 
 ### #Task 1 : Prediction using Supervised ML (Level - Beginner)
 _Click on the images on the right side to view my solution._
