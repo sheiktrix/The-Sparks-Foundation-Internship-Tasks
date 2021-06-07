@@ -8,7 +8,7 @@ This repository contains the tasks that I completed while working as an intern f
 - **Internship Type** - Work From Home
 
 [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>]()
-[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](Task 1.ipynb)
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/sheiktrix/The-Sparks-Foundation-Tasks/blob/e9e987e24d269a6e876a7bd107b14423f92583f3/README.md)
 
 ### #Task 1 : Prediction using Supervised ML (Level - Beginner)
 _Click on the images on the right side to view my solution._
